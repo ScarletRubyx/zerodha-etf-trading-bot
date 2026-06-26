@@ -1,0 +1,4 @@
+kiteconnect==4.2.0
+yfinance==0.2.32
+flask==2.3.0
+werkzeug==2.3.0
